@@ -1,0 +1,5 @@
+1) Modify telegram bot api token and open weather token in globalconfigs.py
+
+2) main file to run chabot is vc_telegram.py
+
+3) trained folder contains rasa trained nlu models
