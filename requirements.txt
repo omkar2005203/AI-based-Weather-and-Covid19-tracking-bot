@@ -80,7 +80,7 @@ fuzzywuzzy==0.18.0
 gast==0.2.2
 geojson==2.5.0
 geolocation-python==0.2.2
-gevent==1.4.0
+gevent==23.9.0
 gin-config==0.3.0
 gitdb2==2.0.6
 GitPython==3.0.5
